@@ -24,7 +24,7 @@ Currently learning how to skid
  
 
 
-| <a href="https://github.com/weloveusyrus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weloveusyrus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/weloveusyrus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/SHONA00/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SHONA00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SHONA00/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 # Contact
