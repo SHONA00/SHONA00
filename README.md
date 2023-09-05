@@ -28,7 +28,7 @@ Currently learning how to skid
 
 # Contact
 [youtube]: https://www.youtube.com/channel/UCbzQDQiKFFlefi84488Cy0w </br>
-[instagram]: https://www.instagram.com/hanu_sticx/ </br>
+
 
 #WE LOVE SHONA
 <p align="center">
