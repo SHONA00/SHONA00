@@ -33,6 +33,6 @@ Currently learning how to skid
 #WE LOVE SHONA
 <p align="center">
   <a href="https://github.com/SHONA00">
-    <img src="HOME"/>
+    <img src="https://avatars.githubusercontent.com/u/144094389?s=50&u=2445cd14f3f6d5743ff6d45a2163067556e92704&v=4"/>
      </a>
 </p>
