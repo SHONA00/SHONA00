@@ -2,7 +2,7 @@
 <img src="https://i0.wp.com/i.imgur.com/YPG5OJp.gif">
 </p>
 <p align="center">
-    shona
+    𝑺𝒉𝒐𝒏𝒂 </>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
 </p>
