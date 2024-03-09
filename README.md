@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/1154236667264241754.png"/>
+  <img src="https://discord.c99.nl/widget/theme-3/823410430323327016.png"/>
 </p>
 <p align="center">
 Currently learning how to skid
