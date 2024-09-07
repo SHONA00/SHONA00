@@ -23,7 +23,7 @@ Currently learning how to skid
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 [![Top Langs](https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=SHONA00&layout=compact&theme=merko)](https://github.com/SHONA00/github-readme-stats)
 
-![SHONA stats🪐](https://github-readme-stats-two-nu-79.vercel.app/api?username=SHONA00&show_icons=true&theme=merko)
+![SHONA stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=SHONA00&show_icons=true&theme=merko)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHONA00&theme=merko" alt="SHONA00" /> </p> 
 
